@@ -27,6 +27,5 @@ public class ExampleMod
     {
         // some example code
         logger.info("DIRT BLOCK >> {}", Blocks.DIRT.getRegistryName());
-        logger.info("hello world!");
     }
 }
