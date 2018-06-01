@@ -1,0 +1,6 @@
+{
+  "parent": "item/bow",
+  "textures": {
+    "layer0": "spicyhero:items/weapons/hawkeye_pulling_1"
+  }
+}
