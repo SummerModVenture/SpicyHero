@@ -1,5 +1,5 @@
 {
-  "parent": "modid:item/cap_shield_blocking",
+  "parent": "spicyhero:item/cap_shield_blocking",
   "textures": {
     "layer0": "spicyhero:items/armor/cap_shield_blocking"
   },
