@@ -1,5 +1,8 @@
 {
-  "parent": "builtin/entity",
+  "parent": "modid:item/cap_shield_blocking",
+  "textures": {
+    "layer0": "spicyhero:items/armor/cap_shield_blocking"
+  },
   "display": {
     "thirdperson_righthand": {
       "rotation": [ 45, 135, 0 ],
